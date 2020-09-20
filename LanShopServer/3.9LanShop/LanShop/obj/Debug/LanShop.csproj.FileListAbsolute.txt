@@ -1,0 +1,91 @@
+C:\Users\Admin\Desktop\MQTT\Lan Shop-Project\LanShop\obj\Debug\LanShop.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\MQTT\Lan Shop-Project\LanShop\obj\Debug\App.g.cs
+C:\Users\Admin\Desktop\MQTT\Lan Shop-Project\LanShop\obj\Debug\LanShop_Content.g.cs
+C:\Users\Admin\Desktop\MQTT\Lan Shop-Project\LanShop\obj\Debug\LanShop_MarkupCompile.cache
+C:\Users\Admin\Desktop\MQTT\Lan Shop-Project\LanShop\obj\Debug\LanShop.Properties.Resources.resources
+C:\Users\Admin\Desktop\MQTT\Lan Shop-Project\LanShop\obj\Debug\LanShop.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\MQTT\Lan Shop-Project\LanShop\obj\Debug\LanShop.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\MQTT\Lan Shop-Project\LanShop\bin\Debug\Views\_dictionary\viet.json
+C:\Users\Admin\Desktop\MQTT\Lan Shop-Project\LanShop\bin\Debug\Views\_binding\menu.json
+C:\Users\Admin\Desktop\MQTT\Lan Shop-Project\LanShop\bin\Debug\Views\_binding\autoform.json
+C:\Users\Admin\Desktop\MQTT\Lan Shop-Project\LanShop\bin\Debug\Images\file.png
+C:\Users\Admin\Desktop\MQTT\Lan Shop-Project\LanShop\bin\Debug\Images\folder.png
+C:\Users\Admin\Desktop\MQTT\Lan Shop-Project\LanShop\bin\Debug\Images\up-left.png
+C:\Users\Admin\Desktop\MQTT\Lan Shop-Project\LanShop\bin\Debug\Contents\default.json
+C:\Users\Admin\Desktop\MQTT\Lan Shop-Project\LanShop\bin\Debug\LanShop.exe.config
+C:\Users\Admin\Desktop\MQTT\Lan Shop-Project\LanShop\bin\Debug\LanShop.exe
+C:\Users\Admin\Desktop\MQTT\Lan Shop-Project\LanShop\bin\Debug\LanShop.pdb
+C:\Users\Admin\Desktop\MQTT\Lan Shop-Project\LanShop\bin\Debug\MvcEngine.dll
+C:\Users\Admin\Desktop\MQTT\Lan Shop-Project\LanShop\bin\Debug\Network.dll
+C:\Users\Admin\Desktop\MQTT\Lan Shop-Project\LanShop\bin\Debug\Newtonsoft.Json.Bson.dll
+C:\Users\Admin\Desktop\MQTT\Lan Shop-Project\LanShop\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Admin\Desktop\MQTT\Lan Shop-Project\LanShop\bin\Debug\Security.dll
+C:\Users\Admin\Desktop\MQTT\Lan Shop-Project\LanShop\bin\Debug\VstJson.dll
+C:\Users\Admin\Desktop\MQTT\Lan Shop-Project\LanShop\bin\Debug\Network.pdb
+C:\Users\Admin\Desktop\MQTT\Lan Shop-Project\LanShop\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Admin\Desktop\MQTT\Lan Shop-Project\LanShop\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Admin\Desktop\MQTT\Lan Shop-Project\LanShop\bin\Debug\Newtonsoft.Json.Bson.pdb
+C:\Users\Admin\Desktop\MQTT\Lan Shop-Project\LanShop\bin\Debug\Newtonsoft.Json.Bson.xml
+C:\Users\Admin\Desktop\MQTT\Lan Shop-Project\LanShop\obj\Debug\LanShop.csproj.CopyComplete
+C:\Users\Admin\Desktop\MQTT\Lan Shop-Project\LanShop\obj\Debug\LanShop.exe
+C:\Users\Admin\Desktop\MQTT\Lan Shop-Project\LanShop\obj\Debug\LanShop.pdb
+C:\Users\Admin\Desktop\MQTT\Lan Shop-Project\3.9LanShop\LanShop\bin\Debug\Views\_dictionary\viet.json
+C:\Users\Admin\Desktop\MQTT\Lan Shop-Project\3.9LanShop\LanShop\bin\Debug\Views\_binding\menu.json
+C:\Users\Admin\Desktop\MQTT\Lan Shop-Project\3.9LanShop\LanShop\bin\Debug\Views\_binding\autoform.json
+C:\Users\Admin\Desktop\MQTT\Lan Shop-Project\3.9LanShop\LanShop\bin\Debug\Images\file.png
+C:\Users\Admin\Desktop\MQTT\Lan Shop-Project\3.9LanShop\LanShop\bin\Debug\Images\folder.png
+C:\Users\Admin\Desktop\MQTT\Lan Shop-Project\3.9LanShop\LanShop\bin\Debug\Images\up-left.png
+C:\Users\Admin\Desktop\MQTT\Lan Shop-Project\3.9LanShop\LanShop\bin\Debug\Contents\default.json
+C:\Users\Admin\Desktop\MQTT\Lan Shop-Project\3.9LanShop\LanShop\bin\Debug\LanShop.exe.config
+C:\Users\Admin\Desktop\MQTT\Lan Shop-Project\3.9LanShop\LanShop\bin\Debug\LanShop.exe
+C:\Users\Admin\Desktop\MQTT\Lan Shop-Project\3.9LanShop\LanShop\bin\Debug\LanShop.pdb
+C:\Users\Admin\Desktop\MQTT\Lan Shop-Project\3.9LanShop\LanShop\bin\Debug\Network.dll
+C:\Users\Admin\Desktop\MQTT\Lan Shop-Project\3.9LanShop\LanShop\bin\Debug\Newtonsoft.Json.Bson.dll
+C:\Users\Admin\Desktop\MQTT\Lan Shop-Project\3.9LanShop\LanShop\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Admin\Desktop\MQTT\Lan Shop-Project\3.9LanShop\LanShop\bin\Debug\VstJson.dll
+C:\Users\Admin\Desktop\MQTT\Lan Shop-Project\3.9LanShop\LanShop\bin\Debug\Network.pdb
+C:\Users\Admin\Desktop\MQTT\Lan Shop-Project\3.9LanShop\LanShop\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Admin\Desktop\MQTT\Lan Shop-Project\3.9LanShop\LanShop\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Admin\Desktop\MQTT\Lan Shop-Project\3.9LanShop\LanShop\bin\Debug\Newtonsoft.Json.Bson.pdb
+C:\Users\Admin\Desktop\MQTT\Lan Shop-Project\3.9LanShop\LanShop\bin\Debug\Newtonsoft.Json.Bson.xml
+C:\Users\Admin\Desktop\MQTT\Lan Shop-Project\3.9LanShop\LanShop\obj\Debug\LanShop.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\MQTT\Lan Shop-Project\3.9LanShop\LanShop\obj\Debug\App.g.cs
+C:\Users\Admin\Desktop\MQTT\Lan Shop-Project\3.9LanShop\LanShop\obj\Debug\LanShop_Content.g.cs
+C:\Users\Admin\Desktop\MQTT\Lan Shop-Project\3.9LanShop\LanShop\obj\Debug\LanShop_MarkupCompile.cache
+C:\Users\Admin\Desktop\MQTT\Lan Shop-Project\3.9LanShop\LanShop\obj\Debug\LanShop.Properties.Resources.resources
+C:\Users\Admin\Desktop\MQTT\Lan Shop-Project\3.9LanShop\LanShop\obj\Debug\LanShop.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\MQTT\Lan Shop-Project\3.9LanShop\LanShop\obj\Debug\LanShop.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\MQTT\Lan Shop-Project\3.9LanShop\LanShop\obj\Debug\LanShop.csproj.CopyComplete
+C:\Users\Admin\Desktop\MQTT\Lan Shop-Project\3.9LanShop\LanShop\obj\Debug\LanShop.exe
+C:\Users\Admin\Desktop\MQTT\Lan Shop-Project\3.9LanShop\LanShop\obj\Debug\LanShop.pdb
+D:\Programming\BinhBoong\LanShopServer\3.9LanShop\LanShop\bin\Debug\Views\_dictionary\viet.json
+D:\Programming\BinhBoong\LanShopServer\3.9LanShop\LanShop\bin\Debug\Views\_binding\menu.json
+D:\Programming\BinhBoong\LanShopServer\3.9LanShop\LanShop\bin\Debug\Views\_binding\autoform.json
+D:\Programming\BinhBoong\LanShopServer\3.9LanShop\LanShop\bin\Debug\Images\file.png
+D:\Programming\BinhBoong\LanShopServer\3.9LanShop\LanShop\bin\Debug\Images\folder.png
+D:\Programming\BinhBoong\LanShopServer\3.9LanShop\LanShop\bin\Debug\Images\up-left.png
+D:\Programming\BinhBoong\LanShopServer\3.9LanShop\LanShop\bin\Debug\Contents\default.json
+D:\Programming\BinhBoong\LanShopServer\3.9LanShop\LanShop\bin\Debug\LanShop.exe.config
+D:\Programming\BinhBoong\LanShopServer\3.9LanShop\LanShop\bin\Debug\LanShop.exe
+D:\Programming\BinhBoong\LanShopServer\3.9LanShop\LanShop\bin\Debug\LanShop.pdb
+D:\Programming\BinhBoong\LanShopServer\3.9LanShop\LanShop\bin\Debug\Network.dll
+D:\Programming\BinhBoong\LanShopServer\3.9LanShop\LanShop\bin\Debug\Newtonsoft.Json.Bson.dll
+D:\Programming\BinhBoong\LanShopServer\3.9LanShop\LanShop\bin\Debug\Newtonsoft.Json.dll
+D:\Programming\BinhBoong\LanShopServer\3.9LanShop\LanShop\bin\Debug\VstJson.dll
+D:\Programming\BinhBoong\LanShopServer\3.9LanShop\LanShop\bin\Debug\Network.pdb
+D:\Programming\BinhBoong\LanShopServer\3.9LanShop\LanShop\bin\Debug\Newtonsoft.Json.pdb
+D:\Programming\BinhBoong\LanShopServer\3.9LanShop\LanShop\bin\Debug\Newtonsoft.Json.xml
+D:\Programming\BinhBoong\LanShopServer\3.9LanShop\LanShop\bin\Debug\Newtonsoft.Json.Bson.pdb
+D:\Programming\BinhBoong\LanShopServer\3.9LanShop\LanShop\bin\Debug\Newtonsoft.Json.Bson.xml
+D:\Programming\BinhBoong\LanShopServer\3.9LanShop\LanShop\obj\Debug\LanShop.csprojAssemblyReference.cache
+D:\Programming\BinhBoong\LanShopServer\3.9LanShop\LanShop\obj\Debug\App.g.cs
+D:\Programming\BinhBoong\LanShopServer\3.9LanShop\LanShop\obj\Debug\LanShop_Content.g.cs
+D:\Programming\BinhBoong\LanShopServer\3.9LanShop\LanShop\obj\Debug\LanShop_MarkupCompile.cache
+D:\Programming\BinhBoong\LanShopServer\3.9LanShop\LanShop\obj\Debug\LanShop.Properties.Resources.resources
+D:\Programming\BinhBoong\LanShopServer\3.9LanShop\LanShop\obj\Debug\LanShop.csproj.GenerateResource.cache
+D:\Programming\BinhBoong\LanShopServer\3.9LanShop\LanShop\obj\Debug\LanShop.csproj.CoreCompileInputs.cache
+D:\Programming\BinhBoong\LanShopServer\3.9LanShop\LanShop\obj\Debug\LanShop.csproj.CopyComplete
+D:\Programming\BinhBoong\LanShopServer\3.9LanShop\LanShop\obj\Debug\LanShop.exe
+D:\Programming\BinhBoong\LanShopServer\3.9LanShop\LanShop\obj\Debug\LanShop.pdb
+D:\Programming\BinhBoong\LanShopServer\3.9LanShop\LanShop\bin\Debug\Models.dll
+D:\Programming\BinhBoong\LanShopServer\3.9LanShop\LanShop\bin\Debug\Models.pdb

@@ -1,0 +1,110 @@
+﻿{
+  "LoginInfo": {
+    "UserName": {
+      "caption": "Tên người dùng"
+    },
+    "Password": {
+      "caption": "Mật khẩu",
+      "input": "password"
+    }
+  },
+  "TimHang": {
+    "MaVach": {
+      "caption": "Mã vạch / Mã hàng"
+    }
+  },
+  "MatHang": {
+    "MaHang": {
+      "caption": "Mã Hàng",
+      "width": 80
+    },
+    "MaVach": {
+      "caption": "Mã Vạch",
+      "width": 100
+    },
+    "Ten": {
+      "caption": "Tên mặt hàng",
+      "width": 150
+    },
+    "DonGia": {
+      "caption": "Đơn Giá",
+      "input": "integer",
+      "width": 100
+    },
+    "VAT": {
+      "caption": "VAT (%)",
+      "input": "integer",
+      "width": 80
+    },
+    "DongGoi": {
+      "caption": "Đóng gói",
+      "width": 60,
+      "input": "combo"
+    },
+    "SoDonNguyen": {
+      "caption": "Số đơn nguyên",
+      "width": 60,
+      "input": "int"
+    },
+    "LoaiDonNguyen": {
+      "caption": "Loại đơn nguyên",
+      "width": 60,
+      "input": "combo"
+    },
+    "MoTa": {
+      "caption": "Mô tả",
+      "input": "rich"
+    }
+  },
+  "KhachHang": {
+    "SoDT": {
+      "caption": "Số điện thoại",
+      "width": 200
+    },
+    "Ten": {
+      "caption": "Tên khách hàng",
+      "width": 300
+    }
+  },
+  "HoaDon": {
+    "Ma": {
+      "caption": "Mã hóa đơn",
+      "width": 100
+    },
+    "Ngay": {
+      "formatstring": "dd/MM/yyyy",
+      "caption": "Ngày lập hóa đơn",
+      "width": 150
+    },
+    "Tong": {
+      "caption": "Tổng",
+      "width": 70
+    },
+    "VAT": {
+      "caption": "VAT",
+      "width": 70
+    },
+    "TongSauVAT": {
+      "caption": "Tổng sau VAT",
+      "width": 100
+    },
+    "KhachHang": {
+      "caption": "Khách hàng",
+      "width": 150,
+      "input": "combo"
+    }
+  },
+  "Config": {
+    "ServerIp": {
+      "caption": "Server IP"
+    },
+    "Company": {
+      "caption": "Company Name",
+      "allowNull": true
+    },
+    "invoiceHasCompany": {
+      "caption": "Show company in invoice",
+      "input": "check"
+    }
+  }
+}

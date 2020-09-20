@@ -1,0 +1,36 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1231
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LanShopClient", "LanShopClient.csproj", "{75EE8DF5-3AA8-407C-B654-B8A8E9C4DC44}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetWork", "..\NetWork\NetWork.csproj", "{C5E9382C-9E92-479B-9642-71B70E2EEA09}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvcEngine", "..\..\..\..\MvcEngine\MvcEngine.csproj", "{E9DD77AF-8F66-4C2E-AFF3-6B1FECD2CE0D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{75EE8DF5-3AA8-407C-B654-B8A8E9C4DC44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75EE8DF5-3AA8-407C-B654-B8A8E9C4DC44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75EE8DF5-3AA8-407C-B654-B8A8E9C4DC44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75EE8DF5-3AA8-407C-B654-B8A8E9C4DC44}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5E9382C-9E92-479B-9642-71B70E2EEA09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5E9382C-9E92-479B-9642-71B70E2EEA09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5E9382C-9E92-479B-9642-71B70E2EEA09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5E9382C-9E92-479B-9642-71B70E2EEA09}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E9DD77AF-8F66-4C2E-AFF3-6B1FECD2CE0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9DD77AF-8F66-4C2E-AFF3-6B1FECD2CE0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9DD77AF-8F66-4C2E-AFF3-6B1FECD2CE0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9DD77AF-8F66-4C2E-AFF3-6B1FECD2CE0D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9F03B706-11EF-450E-8AC2-42EA3D7F40F1}
+	EndGlobalSection
+EndGlobal

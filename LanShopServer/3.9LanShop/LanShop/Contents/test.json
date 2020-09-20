@@ -1,0 +1,12 @@
+﻿{
+  "disk": {
+      "bordercolor": "ccc",
+      "borderSize": 1,
+      "cornerRadius": 6,
+      "fontSize": 16
+  },
+  "data-row-active": {
+    "backgroundColor": "333",
+    "textColor": "0ff"
+  }
+}

@@ -1,0 +1,167 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows;
+using System.Windows.Controls;
+
+namespace LanShop.Views.BanHang
+{
+    class Default : Renderer<Models.HoaDon>
+    {
+        public override void ProcessResponse(object value)
+        {
+            if (value == null)
+            {
+                return;
+            }
+            if (value is Models.ChiTiet)
+                matHangBox.Value = value;
+            //else
+             
+        }
+
+        public void TimThayMatHang(Models.ChiTiet matHang)
+        {
+            matHangBox.Value = matHang;
+        }
+        MyLabel _caption()
+        {
+            return new MyLabel
+            {
+                Css = "content-caption",
+                Text = "Hóa đơn"
+            };
+        }
+
+        ControlBox _khachHang()
+        {
+            var box = new ControlBox() { Orientation = Orientations.Horizontal };
+            box.SetInput = (input, index) => {
+                input.Margin = new Thickness(10, 0, 4, 10);
+                box.AddColumn((UIElement)input);
+            
+                
+                   
+                //if (index == 1)
+                //{
+
+                //    var btn = ((MyTextBox)input).Button;
+                //    btn.Text = "Lưu";
+                //    btn.Click += e => {
+                //        MyApp.Execute("KhachHang/Save", box.Value);
+                //    };
+                //}
+            };
+
+            box.Binding = "KhachHang";
+            box.Value = new Models.KhachHang();
+            var button = new MyButton()
+            {
+                Text = "Lưu",
+                Width = 50,
+                Height = 37,
+                VAlign = LayoutOptions.Far,
+                Margin=new Thickness(10,0,0,10)
+            };
+            box.AddColumn(button);
+
+
+            box.AddColumn();
+
+            return box;
+        }
+
+        ControlBox matHangBox;
+        List<Models.ChiTiet> chiTietList;
+        ControlBox _matHang()
+        {
+            chiTietList = new List<Models.ChiTiet>();
+
+            var box = new ControlBox() {
+                Orientation = Orientations.Horizontal
+            }; 
+            box.SetInput = (input, index) => {
+                input.Margin = new Thickness(10, 0, 4, 10);
+                box.AddColumn((UIElement)input);
+                if (index < 2)
+                {
+                    var tb = (MyTextBox)input;
+                    tb.Input.PreviewKeyUp += (s, e) =>
+                    {
+
+                        if (e.Key == System.Windows.Input.Key.Enter)
+                        {
+                            var v = tb.Value;
+                            if (v != null)
+                            {
+                                Controller.Execute("TimMatHang", input.BindingName, (string)v);
+                            }
+                        }
+                    };
+                }
+                if (index == 2)
+                {
+                   
+                    var tb = ((MyTextBox)input);
+                    tb.IsHitTestVisible = false;
+                
+                }
+
+                if (index == 3)
+                {
+                   
+                    var tb = (MyTextBox)input;
+                    tb.Input.PreviewKeyUp += (s, e) => {
+                        if (e.Key == System.Windows.Input.Key.Enter)
+                        {
+                            if (((Models.ChiTiet)matHangBox.Value).MaVach == "12345")
+                            {
+                                var mh = (Models.ChiTiet)matHangBox.Value;
+                                chiTietList.Remove(mh);
+                               
+                                //chiTietList.Add(mh);
+                                chiTietList.Insert(0,mh);
+                            }
+                            else
+                            {
+                                chiTietList.Add((Models.ChiTiet)matHangBox.Value);
+                            }
+                            gridChiTiet.ItemsSource = chiTietList;
+                        }
+
+                        //if (e.Key == System.Windows.Input.Key.Enter)
+                        //{
+
+                        //    chiTietList.Add((Models.ChiTiet)matHangBox.Value);
+                        //    gridChiTiet.ItemsSource = chiTietList;
+
+                        //}
+                    };
+                }
+            };
+
+            box.Binding = "TimMatHang";
+            box.Value = new Models.MatHang();
+            box.AddColumn();
+
+            return matHangBox = box;
+        }
+
+        MyGridView gridChiTiet;
+        MyGridView _chiTiet()
+        {
+            var grid = new MyGridView {
+                Binding = "MatHang",
+            };
+            return gridChiTiet = grid;
+        }
+
+        protected override void LoadElements()
+        {
+            base.LoadElements();
+            MainContent.AddRow();
+        }
+    }
+}

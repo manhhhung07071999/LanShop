@@ -1,0 +1,56 @@
+D:\Programming\Windows\LAN\Server\NetWork\bin\Debug\NetWork.dll
+D:\Programming\Windows\LAN\Server\NetWork\bin\Debug\NetWork.pdb
+D:\Programming\Windows\LAN\Server\NetWork\obj\Debug\NetWork.dll
+D:\Programming\Windows\LAN\Server\NetWork\obj\Debug\NetWork.pdb
+D:\Programming\Windows\LAN\Server\NetWork\obj\Debug\NetWork.csprojAssemblyReference.cache
+D:\Programming\Windows\LAN\Server\NetWork\obj\Debug\NetWork.csproj.CoreCompileInputs.cache
+D:\Working\2017\LAN\Server\NetWork\bin\Debug\NetWork.dll
+D:\Working\2017\LAN\Server\NetWork\bin\Debug\NetWork.pdb
+D:\Working\2017\LAN\Server\NetWork\obj\Debug\NetWork.csprojAssemblyReference.cache
+D:\Working\2017\LAN\Server\NetWork\obj\Debug\NetWork.csproj.CoreCompileInputs.cache
+D:\Working\2017\LAN\Server\NetWork\obj\Debug\NetWork.dll
+D:\Working\2017\LAN\Server\NetWork\obj\Debug\NetWork.pdb
+C:\Users\Admin\Desktop\bài tập lớn\Server\NetWork\obj\Debug\NetWork.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\bài tập lớn\Server\NetWork\obj\Debug\NetWork.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\bài tập lớn\Server\NetWork\bin\Debug\NetWork.dll
+C:\Users\Admin\Desktop\bài tập lớn\Server\NetWork\bin\Debug\NetWork.pdb
+C:\Users\Admin\Desktop\bài tập lớn\Server\NetWork\bin\Debug\MvcEngine.dll
+C:\Users\Admin\Desktop\bài tập lớn\Server\NetWork\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Admin\Desktop\bài tập lớn\Server\NetWork\bin\Debug\VstJson.dll
+C:\Users\Admin\Desktop\bài tập lớn\Server\NetWork\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Admin\Desktop\bài tập lớn\Server\NetWork\obj\Debug\NetWork.csproj.CopyComplete
+C:\Users\Admin\Desktop\bài tập lớn\Server\NetWork\obj\Debug\NetWork.dll
+C:\Users\Admin\Desktop\bài tập lớn\Server\NetWork\obj\Debug\NetWork.pdb
+C:\Users\phang\Downloads\soketttt\soketttt\Server\NetWork\obj\Debug\NetWork.csprojResolveAssemblyReference.cache
+C:\Users\phang\Downloads\soketttt\soketttt\Server\NetWork\obj\Debug\Network.dll
+C:\Users\phang\Downloads\soketttt\soketttt\Server\NetWork\obj\Debug\Network.pdb
+C:\Users\phang\Downloads\soketttt\soketttt\Server\NetWork\bin\Debug\Network.dll
+C:\Users\phang\Downloads\soketttt\soketttt\Server\NetWork\bin\Debug\Network.pdb
+C:\Users\phang\Downloads\soketttt\soketttt\Server\NetWork\bin\Debug\MvcEngine.dll
+C:\Users\phang\Downloads\soketttt\soketttt\Server\NetWork\bin\Debug\MvcEngine.pdb
+C:\Users\phang\Downloads\soketttt\soketttt\Server\NetWork\bin\Debug\Newtonsoft.Json.xml
+F:\PROJECT_learn\RefrencesDoc\Project\NetWork\obj\Debug\NetWork.csprojAssemblyReference.cache
+F:\PROJECT_learn\RefrencesDoc\Project\NetWork\obj\Debug\NetWork.csproj.CoreCompileInputs.cache
+F:\PROJECT_learn\RefrencesDoc\Project\NetWork\obj\Debug\Network.dll
+F:\PROJECT_learn\RefrencesDoc\Project\NetWork\obj\Debug\Network.pdb
+F:\PROJECT_learn\RefrencesDoc\Project\NetWork\bin\Debug\Network.dll
+F:\PROJECT_learn\RefrencesDoc\Project\NetWork\bin\Debug\Network.pdb
+F:\PROJECT_learn\RefrencesDoc\Project\NetWork\bin\Debug\MvcEngine.dll
+F:\PROJECT_learn\RefrencesDoc\Project\NetWork\bin\Debug\Newtonsoft.Json.dll
+F:\PROJECT_learn\RefrencesDoc\Project\NetWork\obj\Debug\NetWork.csproj.CopyComplete
+D:\3.9LanShop\3.9LanShop\NetWork\bin\Debug\Network.dll
+D:\3.9LanShop\3.9LanShop\NetWork\bin\Debug\Network.pdb
+D:\3.9LanShop\3.9LanShop\NetWork\bin\Debug\MvcEngine.pdb
+D:\3.9LanShop\3.9LanShop\NetWork\bin\Debug\Newtonsoft.Json.xml
+D:\3.9LanShop\3.9LanShop\NetWork\obj\Debug\NetWork.csprojResolveAssemblyReference.cache
+D:\3.9LanShop\3.9LanShop\NetWork\obj\Debug\Network.dll
+D:\3.9LanShop\3.9LanShop\NetWork\obj\Debug\Network.pdb
+D:\2.Project\LanShop_2020_09_19\LanShopClient\3.9LanShop\NetWork\bin\Debug\Network.dll
+D:\2.Project\LanShop_2020_09_19\LanShopClient\3.9LanShop\NetWork\bin\Debug\Network.pdb
+D:\2.Project\LanShop_2020_09_19\LanShopClient\3.9LanShop\NetWork\bin\Debug\Newtonsoft.Json.dll
+D:\2.Project\LanShop_2020_09_19\LanShopClient\3.9LanShop\NetWork\bin\Debug\MvcEngine.pdb
+D:\2.Project\LanShop_2020_09_19\LanShopClient\3.9LanShop\NetWork\obj\Debug\NetWork.csprojAssemblyReference.cache
+D:\2.Project\LanShop_2020_09_19\LanShopClient\3.9LanShop\NetWork\obj\Debug\NetWork.csproj.CoreCompileInputs.cache
+D:\2.Project\LanShop_2020_09_19\LanShopClient\3.9LanShop\NetWork\obj\Debug\NetWork.csproj.CopyComplete
+D:\2.Project\LanShop_2020_09_19\LanShopClient\3.9LanShop\NetWork\obj\Debug\Network.dll
+D:\2.Project\LanShop_2020_09_19\LanShopClient\3.9LanShop\NetWork\obj\Debug\Network.pdb

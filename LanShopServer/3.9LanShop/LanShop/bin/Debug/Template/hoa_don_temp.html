@@ -1,0 +1,81 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+
+    <style>
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+        td, th {
+            border: 1px solid #999;
+        }
+
+        @media print { 
+
+            .menu {
+                display: none;
+            }
+        }
+
+        .Tong {
+            text-align: right;
+        }
+        footer th, 
+        footer td {
+            text-align: right;
+        }
+    </style>
+
+</head>
+<body>
+    <h1>INVOICE</h1>
+    <header id="main-header">
+        <div id="Ma">
+
+        </div>
+        <div id="Ngay" data-format="dd/MM/yyyy">
+
+        </div>
+    </header>
+    <table id="lines-content">
+        <tr id="lines-header">
+            <th>#</th>
+            <td class="Ten">Name</td>
+            <td class="SoLuong">Quanlity</td>
+            <td class="QuyCach">Unit</td>
+            <td class="TongDonNguyen">Total Quanlity</td>
+            <td class="DonGia">Price</td>
+            <td class="Tong">Total</td>
+        </tr>
+        <tr>
+            <td class="num"></td>
+            <td class="Ten"></td>
+            <td class="SoLuong"></td>
+            <td class="QuyCach"></td>
+            <td class="TongDonNguyen"></td>
+            <td class="DonGia" data-format="N2"></td>
+            <td class="Tong" data-format="N2"></td>
+        </tr>
+    </table>
+    <footer id="main-footer">
+        <table>
+            <tr>
+                <td>Total</td>
+                <th id="Tong" data-format="N2">123</th>
+            </tr>
+            <tr>
+                <td>VAT (%)</td>
+                <th id="VAT">123</th>
+            </tr>
+            <tr>
+                <td>Total after VAT</td>
+                <th id="TongSauVAT" data-format="N2">123</th>
+            </tr>
+        </table>
+    </footer>
+</body>
+</html>

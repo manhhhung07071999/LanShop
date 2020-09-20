@@ -1,0 +1,148 @@
+﻿{
+  "primary": {
+
+    "backgroundColor": "0065b3",
+    "textColor": "fff",
+    "events": {
+      "hover": { "opacity": 0.85 }
+    }
+  },
+  "danger": {
+
+    "backgroundColor": "cc3300",
+    "textColor": "fff"
+
+  },
+  "warning": {
+
+    "backgroundColor": "f80",
+    "textColor": "fff"
+
+  },
+  "black": {
+
+    "backgroundColor": 0,
+    "textColor": "EDF5E7"
+
+  },
+  "input": {
+    "fontSize": 16,
+    "bordercolor": "ccc",
+    "events": {
+      "focus": {
+        "bordercolor": "f80"
+      }
+    }
+  },
+  "input-caption": {
+
+    "textColor": "99e",
+    "halign": 0,
+    "fontSize": 14
+  },
+  "combo-item": {
+    "backgroundColor": "fff",
+    "textColor": "333",
+    "events": {
+      "hover": {
+        "backgroundColor": "111",
+        "textColor": "fff"
+      }
+    }
+  },
+  "combo-item-active": {
+    "backgroundColor": "111",
+    "textColor": "0ff"
+  },
+  "top-menu-item": {
+
+    "textColor": "EDF5E7",
+    "fontsize": 14,
+    "fontweight": 600,
+    "events": {
+      "hover": {
+        "textColor": "F02424"
+      }
+    }
+  },
+  "nav-menu-item": {
+
+    "bordercolor": "222",
+    "backgroundColor": -1,
+    "textColor": "999",
+    "fontsize": 14,
+    "events": {
+      "hover": {
+        "backgroundColor": "333"
+      }
+    }
+  },
+  "list-caption": {
+
+    "backgroundColor": "EDF5E7",
+    "fontweight": 600,
+    "fontsize": 14,
+    "padding": "0, 10"
+
+  },
+  "data-row": {
+
+    "backgroundColor": "eee",
+    "textColor": "111",
+    "padding": "0, 3",
+    "events": {
+      "hover": {
+        "backgroundColor": "006699",
+        "textColor": "fff"
+      }
+    }
+  },
+  "app-caption": {
+
+    "backgroundColor": 0,
+    "textColor": "EDF5E7",
+    "fontsize": 22,
+    "events": {
+      "hover": {
+        "backgroundColor": "cc3300",
+        "textColor": "ff0"
+      }
+    }
+  },
+  "content-caption": {
+
+    "backgroundColor": "666",
+    "textColor": "edf5e7",
+    "padding": 10,
+    "fontsize": 24
+
+  },
+  "dlg-header": {
+
+    "backgroundColor": "112",
+    "textColor": "fff",
+    "fontsize": 16
+
+  },
+  "dlg-body": {
+
+    "textColor": "008"
+
+  },
+  "dlg-footer": {
+
+    "backgroundColor": "ccc"
+
+  },
+  "menu": {
+
+    "backgroundColor": "111",
+    "textColor": "EDF5E7",
+    "fontsize": 18,
+    "events": {
+      "hover": {
+        "textColor": "cc3300"
+      }
+    }
+  }
+}

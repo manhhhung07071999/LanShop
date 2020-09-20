@@ -1,0 +1,79 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Net;
+using System.Net.Sockets;
+using System.Threading;
+
+namespace Vst.Network
+{
+    public class AsyncSocket
+    {
+        public Socket Socket { get; set; }
+
+        protected byte[] _buffer;
+
+        // Received data string.
+        byte[] data;
+        int potision;
+
+        public int Capacity
+        {
+            get => _buffer.Length;
+            set => _buffer = new byte[value];
+        }
+
+        protected bool IsAllReceived(int bytesRead)
+        {
+            if (0 >= bytesRead) { return false; }
+
+            int offset = 0;
+            if (data == null)
+            {
+                int len = 0;
+
+                offset = 4;
+                potision = 0;
+                for (int i = 0; i < offset; i++)
+                {
+                    len |= (int)buffer[i] << (i << 3);
+                }
+
+                data = new byte[len];
+            }
+
+            int k = offset;
+            while (potision < data.Length)
+            {
+                data[potision++] = buffer[k++];
+            }
+
+            return (potision == data.Length);
+        }
+
+        public string GetString()
+        {
+            return Encoding.UTF8.GetString(data);
+        }
+
+        protected byte[] GetSendingData(byte[] data)
+        {
+            var len = data.Length;
+
+            byte[] sendData = new byte[4 + data.Length];
+            for (int i = 0; i < 4; i++)
+            {
+                sendData[i] = (byte)len;
+                len >>= 8;
+            }
+            data.CopyTo(sendData, 4);
+
+            return sendData;
+        }
+        protected byte[] GetSendingData(string text)
+        {
+            return GetSendingData(Encoding.UTF8.GetBytes(text));
+        }
+    }
+}

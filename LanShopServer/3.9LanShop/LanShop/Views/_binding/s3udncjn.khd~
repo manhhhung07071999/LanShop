@@ -1,0 +1,99 @@
+﻿{
+  "LoginInfo": {
+    "UserName": {
+      "caption": "Tên người dùng"
+    },
+    "Password": {
+      "caption": "Mật khẩu",
+      "input": "password"
+    }
+  },
+  "TimMatHang": {
+    "MaVach": {
+      "caption": "Mã Vạch",
+      "width": 100
+    },
+    "Id": {
+      "caption": "Mã Hàng",
+      "width": 80
+    },
+    "Ten": {
+      "caption": "Tên mặt hàng",
+      "width": 150
+    },
+    "SoLuong": {
+      "caption": "Số lượng",
+      "input": "integer"
+    }
+  },
+  "MatHang": {
+    "MaHang": {
+      "caption": "Mã Hàng",
+      "width": 80
+    },
+    "MaVach": {
+      "caption": "Mã Vạch",
+      "width": 100
+    },
+    "Ten": {
+      "caption": "Tên mặt hàng",
+      "width": 150
+    },
+    "DonGia": {
+      "caption": "Đơn Giá",
+      "input": "integer",
+      "width": 100
+    },
+    "VAT": {
+      "caption": "VAT (%)",
+      "input": "integer",
+      "width": 80
+    },
+    "DongGoi": {
+      "caption": "Đóng gói",
+      "width": 80
+    },
+
+    "SoLuong": {
+      "caption": "Số lượng",
+      "width": 80
+    }
+  },
+  "KhachHang": {
+    "SoDT": {
+      "caption": "Số điện thoại",
+      "width": 200
+    },
+    "Ten": {
+      "caption": "Tên khách hàng",
+      "width": 300
+    }
+  },
+  "HoaDon": {
+    "Ma": {
+      "caption": "Mã hóa đơn",
+        "width": 100
+    },
+    "Ngay": {
+      "stringformat": "dd/MM/yyyy",
+      "caption": "Ngày lập hóa đơn",
+      "width": 150
+    },
+    "Tong": {
+      "caption": "Tổng",
+      "width": 70
+    },
+    "VAT": {
+      "caption": "VAT",
+      "width": 70
+    },
+    "TongSauVAT": {
+      "caption": "Tổng sau VAT",
+      "width": 100
+    },
+    "KhachHang": {
+      "caption": "Khách hàng",
+      "width": 150
+    }
+  }
+}

@@ -1,0 +1,11 @@
+﻿{
+  "mahang": "Mã hàng đã tồn tại",
+  "mes01": "Thông báo từ hệ thống",
+  "mes02": "Có chắc không",
+  "not-support": "Chức năng đang được phát triển",
+  "serverip": "Địa chỉ IP của server đã thay đổi. Hệ thống sẽ được khởi động lại.",
+  "usb-0": "Không tìm thấy cơ sở dữ liệu.",
+  "db-0": "Chọn USB cho cơ sở dữ liệu.",
+  "0db": "Không có đĩa trống.",
+  "2db": "Có hơn một đĩa chứa cơ sở dữ liệu."
+}

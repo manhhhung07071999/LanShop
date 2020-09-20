@@ -1,0 +1,13 @@
+﻿{
+  "data-row-active": {
+    "backgroundColor": "333",
+    "textColor": "0ff"
+  },
+  "strong": {
+    "fontSize": 20,
+    "fontWeight": 600
+  },
+  "hoadon-item": {
+    "fontSize": 14
+  }
+}

@@ -1,0 +1,55 @@
+﻿[
+  {
+    "text": "Hệ thống",
+    "url": "MatHang",
+    "childs": [
+      {
+        "iconName": "package",
+        "text": "Danh sách mặt Hàng",
+        "url": "MatHang"
+      },
+      {
+        "iconName": "user",
+        "text": "Danh sách khách hàng",
+        "url": "KhachHang"
+      },
+      {
+        "beginGroup": true,
+        "iconName": "setting",
+        "text": "Cài đặt",
+        "url": "Setup/Edit"
+      },
+      {
+        "iconName": "setting",
+        "text": "Sao lưu",
+        "url": "Setup/CloneDb"
+      }
+    ]
+  },
+  {
+    "text": "Hóa đơn",
+    "url": "HoaDon",
+    "childs": [
+      {
+        "iconName": "day",
+        "text": "Trong ngày",
+        "url": "HoaDon"
+      },
+      {
+        "iconName": "week",
+        "text": "Trong tuần",
+        "url": "HoaDon/TrongTuan"
+      },
+      {
+        "iconName": "month",
+        "text": "Trong tháng",
+        "url": "HoaDon/TrongThang"
+      },
+      {
+        "iconName": "filter",
+        "text": "Lọc mở rộng",
+        "url": "HoaDon/Loc"
+      }
+    ]
+  }
+]

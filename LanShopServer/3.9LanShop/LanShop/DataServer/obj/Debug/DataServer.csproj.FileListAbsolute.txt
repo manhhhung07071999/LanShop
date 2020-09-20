@@ -1,0 +1,11 @@
+D:\Programming\BinhBoong\LanShopServer\3.9LanShop\LanShop\DataServer\bin\Debug\DataServer.exe.config
+D:\Programming\BinhBoong\LanShopServer\3.9LanShop\LanShop\DataServer\bin\Debug\DataServer.exe
+D:\Programming\BinhBoong\LanShopServer\3.9LanShop\LanShop\DataServer\bin\Debug\DataServer.pdb
+D:\Programming\BinhBoong\LanShopServer\3.9LanShop\LanShop\bin\Debug\DataServer.exe
+D:\Programming\BinhBoong\LanShopServer\3.9LanShop\LanShop\DataServer\obj\Debug\DataServer.csprojAssemblyReference.cache
+D:\Programming\BinhBoong\LanShopServer\3.9LanShop\LanShop\DataServer\obj\Debug\DataServer.csproj.CoreCompileInputs.cache
+D:\Programming\BinhBoong\LanShopServer\3.9LanShop\LanShop\DataServer\obj\Debug\DataServer.exe
+D:\Programming\BinhBoong\LanShopServer\3.9LanShop\LanShop\DataServer\obj\Debug\DataServer.pdb
+D:\Programming\BinhBoong\LanShopServer\3.9LanShop\LanShop\bin\Debug\DataServer.exe.config
+D:\Programming\BinhBoong\LanShopServer\3.9LanShop\LanShop\bin\Debug\DataServer.pdb
+D:\Programming\BinhBoong\LanShopServer\3.9LanShop\LanShop\DataServer\obj\Debug\DataServer.csproj.CopyComplete
